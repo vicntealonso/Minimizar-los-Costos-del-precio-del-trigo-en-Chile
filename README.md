@@ -7,17 +7,17 @@ Para descargar todo el código, se recomienda clonar el repositorio, para esto u
 git clone https://github.com/vicntealonso/Minimizar-los-Costos-del-precio-del-trigo-en-Chile.git
 ``` 
 
-
-
-```
 # Funcionamiento
+
 En el archivo Datos.py encontrara los valores de los parametros asociados al modelo
 En el archivo proyecto.py se encontrara el modelo realizado.
 
 Se fija una seed en los números random, para así obtener resultados distintos al variar ciertos parámetros, pero no cambiar los números random entre cada iteración.
 
 Para ejecutar el código, solo es necesario ejecutar proyecto.py.
+
 # Resultados
+
 Todos los resultados se encuentran en los archivos .xlsx y .txt. 
 Al momento de ejecutar el modelo se generarán diversos archivos, siendo estos 54, los cuales se dividen en 3 sets (18 c/u), cada uno de ellos asociado a un tipo de trigo analizado.
 
@@ -30,4 +30,3 @@ Donde los archivos .xlsx que contienen principalmente los valores mensuales asoc
 * Diego Navarro
 * Emilio Peña
 * Joaquin Rojas 
-
