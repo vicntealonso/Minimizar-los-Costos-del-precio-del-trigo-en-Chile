@@ -1,5 +1,4 @@
-# Minimizar-los-Costos-del-precio-del-trigo-en-Chile
-# Desarrollo Inmobiliario Sustentable (Grupo 65)- ICS1113 2022-1 
+# Minimizar-los-Costos-del-precio-del-trigo-en-Chile (Grupo 51)- ICS1113 2022-2
 # Introducción
 El siguiente repositorio contiene el código del proyecto del grupo 51, cuyo tema de trabajo fue Minimizar los Costos del precio del trigo en Chile.
 
